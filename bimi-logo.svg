@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Daily Vitals Guide logo">
-  <!-- orange square background -->
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="600" height="600" viewBox="0 0 600 600">
+  <title>Daily Vitals Guide</title>
   <rect width="600" height="600" rx="36" ry="36" fill="#F7731A"/>
-  <!-- simple white heart (single path, no fonts, no CSS) -->
   <path d="M300 180
            C300 140 360 140 360 190
            C360 230 300 280 300 320
            C300 280 240 230 240 190
            C240 140 300 140 300 180 Z"
         fill="#ffffff"/>
-  <!-- 3 small white bars under heart -->
   <rect x="150" y="380" width="300" height="28" rx="6" fill="#ffffff"/>
   <rect x="150" y="422" width="220" height="22" rx="5" fill="#ffffff"/>
   <rect x="150" y="456" width="160" height="18" rx="5" fill="#ffffff"/>
